@@ -1,0 +1,12 @@
+{
+  "mappings": [
+    "/content/dev-wolfsellers-commerce-eds/:/",
+    "/content/dev-wolfsellers-commerce-eds/configuration:/.helix/config.json",
+    "/content/dev-wolfsellers-commerce-eds/headers:/.helix/headers.json",
+    "/content/dev-wolfsellers-commerce-eds/metadata:/metadata.json",
+    "/content/dev-wolfsellers-commerce-eds.resource/enrichment/enrichment.json:/enrichment/enrichment.json"
+  ],
+  "includes": [
+    "/content/dev-wolfsellers-commerce-eds/"
+  ]
+}
