@@ -172,6 +172,24 @@
               }
             }
           }
+        },
+        {
+          "title": "Quote",
+          "id": "quote",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Quote",
+                  "model": "quote",
+                  "quote": "The only way to do great work is to love what you do.",
+                  "author": "Steve Jobs",
+                  "source": "https://www.brainyquote.com/quotes/steve_jobs_416859"
+                }
+              }
+            }
+          }
         }
       ]
     },
