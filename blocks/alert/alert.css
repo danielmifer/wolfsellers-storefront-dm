@@ -1,0 +1,35 @@
+.alert {
+  padding: 16px 20px;
+  border-radius: 6px;
+  font-size: 14px;
+  line-height: 1.5;
+  border-left: 4px solid;
+}
+
+/* INFO */
+.alert--info {
+  background: #e8f4fd;
+  border-color: #2196f3;
+  color: #0b3c5d;
+}
+
+/* SUCCESS */
+.alert--success {
+  background: #e6f4ea;
+  border-color: #2e7d32;
+  color: #1b5e20;
+}
+
+/* WARNING */
+.alert--warning {
+  background: #fff8e1;
+  border-color: #f9a825;
+  color: #7f6000;
+}
+
+/* ERROR */
+.alert--error {
+  background: #fdecea;
+  border-color: #d32f2f;
+  color: #7f1d1d;
+}

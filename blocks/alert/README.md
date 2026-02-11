@@ -1,0 +1,1 @@
+Este es un componente que muestra una alerta dependiendo de que seleccione
