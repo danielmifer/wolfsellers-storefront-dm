@@ -25,7 +25,8 @@
       "fragment",
       "product-teaser",
       "product-recommendations",
-      "feature-card"
+      "feature-card",
+      "alert"
     ]
   },
   {
