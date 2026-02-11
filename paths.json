@@ -1,12 +1,12 @@
 {
   "mappings": [
-    "/content/rde-wolfsellers-dm-commerce-eds/:/",
-    "/content/rde-wolfsellers-dm-commerce-eds/configuration:/.helix/config.json",
-    "/content/rde-wolfsellers-dm-commerce-eds/headers:/.helix/headers.json",
-    "/content/rde-wolfsellers-dm-commerce-eds/metadata:/metadata.json",
-    "/content/rde-wolfsellers-dm-commerce-eds.resource/enrichment/enrichment.json:/enrichment/enrichment.json"
+    "/content/dev-wolfsellers-commerce-eds/:/",
+    "/content/dev-wolfsellers-commerce-eds/configuration:/.helix/config.json",
+    "/content/dev-wolfsellers-commerce-eds/headers:/.helix/headers.json",
+    "/content/dev-wolfsellers-commerce-eds/metadata:/metadata.json",
+    "/content/dev-wolfsellers-commerce-eds.resource/enrichment/enrichment.json:/enrichment/enrichment.json"
   ],
   "includes": [
-    "/content/rde-wolfsellers-dm-commerce-eds/"
+    "/content/dev-wolfsellers-commerce-eds/"
   ]
 }
