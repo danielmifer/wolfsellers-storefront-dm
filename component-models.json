@@ -511,6 +511,31 @@
     ]
   },
   {
+    "id": "alert",
+    "fields": [
+      {
+        "component": "richtext",
+        "name": "message",
+        "label": "Mensaje",
+        "valueType": "string",
+        "value": ""
+      },
+      {
+        "component": "select",
+        "name": "type",
+        "label": "Tipo",
+        "valueType": "string",
+        "value": "info",
+        "options": [
+          { "name": "Info", "value": "info" },
+          { "name": "Success", "value": "success" },
+          { "name": "Warning", "value": "warning" },
+          { "name": "Error", "value": "error" }
+        ]
+      }
+    ]
+  },
+  {
     "id": "product-details",
     "fields": []
   },
