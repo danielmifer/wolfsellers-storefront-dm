@@ -459,6 +459,58 @@
     ]
   },
   {
+    "id": "feature-card",
+    "fields": [
+      {
+        "component": "image",
+        "name": "image",
+        "label": "Imagen",
+        "value": ""
+      },
+      {
+        "component": "text",
+        "name": "title",
+        "label": "Título",
+        "valueType": "string",
+        "value": ""
+      },
+      {
+        "component": "richtext",
+        "name": "description",
+        "label": "Descripción",
+        "valueType": "string",
+        "value": ""
+      },
+      {
+        "component": "text",
+        "name": "ctaText",
+        "label": "Texto CTA",
+        "valueType": "string",
+        "value": ""
+      },
+      {
+        "component": "text",
+        "name": "ctaUrl",
+        "label": "URL CTA",
+        "valueType": "string",
+        "value": ""
+      },
+      {
+        "component": "select",
+        "name": "classes",
+        "label": "Estilo",
+        "valueType": "string",
+        "value": "",
+        "options": [
+          {
+            "name": "Highlight",
+            "value": "highlight"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "product-details",
     "fields": []
   },
