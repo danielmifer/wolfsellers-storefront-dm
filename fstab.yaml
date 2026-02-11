@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p153442-e1819401.adobeaemcloud.com/bin/franklin.delivery/danielmifer/wolfsellers-storefront-dm/main"
+    url: "https://author-p153442-e1604645.adobeaemcloud.com/bin/franklin.delivery/danielmfdz/wolfsellers-storefront/main"
     type: "markup"
     suffix: ".html"
   
